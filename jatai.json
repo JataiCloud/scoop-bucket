@@ -1,0 +1,15 @@
+{
+    "version": "2.0.0-rc.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/JataiCloud/cli/releases/download/v2.0.0-rc.2/jatai_2.0.0-rc.2_windows_amd64.zip",
+            "bin": [
+                "jatai.exe"
+            ],
+            "hash": "ef39d616e3deb9de436fdddd440a864ba1fc6412c34a389a61a7e06553f55867"
+        }
+    },
+    "homepage": "https://jataicloud.com.br",
+    "license": "MIT",
+    "description": "CLI da Jataí — deploy na nuvem brasileira"
+}
