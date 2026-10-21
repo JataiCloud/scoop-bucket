@@ -1,12 +1,12 @@
 {
-    "version": "2.0.0-rc.2",
+    "version": "2.0.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/JataiCloud/cli/releases/download/v2.0.0-rc.2/jatai_2.0.0-rc.2_windows_amd64.zip",
+            "url": "https://github.com/JataiCloud/cli/releases/download/v2.0.1/jatai_2.0.1_windows_amd64.zip",
             "bin": [
                 "jatai.exe"
             ],
-            "hash": "bd75550e9c68333e2d841ffa99f6ab7b372ca243499b5b77fd6b7567e5c3767b"
+            "hash": "5e5bd82c909b02654d33e4cb81177c1cf198cb5faf1718542d8aff411afffbfe"
         }
     },
     "homepage": "https://jataicloud.com.br",
